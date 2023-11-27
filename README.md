@@ -8,7 +8,7 @@ A classic Pong game implemented in Python using Turtle.
 - [About](#about)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)pong-gam
+- [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Controls](#controls)
 - [Contributing](#contributing)
