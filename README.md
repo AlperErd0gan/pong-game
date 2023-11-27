@@ -1,4 +1,3 @@
-# pong-game
 
 # Pong Game
 
